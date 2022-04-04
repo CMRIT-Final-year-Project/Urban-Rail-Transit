@@ -1,0 +1,17 @@
+rail_no,rail_name,rail_type ,departure_place,destination,departure_date,departure_time,arrival_date,arrival_time,distruption_place_name,distruption_reason,distruption_time,actual_arrival_time
+253-5687624,Mysore Express,Broad Gauge,Bangalore,Mysore,05-12-21,13:18,05-12-21,16:20,Mandya,Elephant Crossing,30,15:50
+213-7142614,Brindavan Express,Broad Gauge,Bangalore,Chennai,05-12-21,10:15,05-12-21,14:30,Vellore,Track Problem,20,14:10
+217-8143615,Kovai Express,Broad Gauge,Bangalore,Kovai,05-12-21,16:30,13-05-21,13:10,Erode,Track Changing,70,11:50
+753-5487694,Godavari Express,Broad Gauge,Bangalore,Kodavari,02-10-21,7:30,02-10-21,23:10,Nellore,Track Demaged due to Heavy Rain,40,22:30
+892-0928373,Brindavan Express,Broad Gauge,Chennai,Mysore,07-11-21,8:40,07-11-21,18:30,Bangalore,Train Collpased,80,17:10
+092-9827382,Mumboy Express,Meter Gauge,Bangalore,Mumboy,18-09-21,6:40,18-09-21,23:10,Tumkur,Train Traffic,50,22:20
+072-9837216,Lalbag Express,Broad Gauge,Bangalore,Mysore,18-03-21,9:30,18-03-21,14:40,Mandya,Track Broken,28,14:12
+071-3847921,Brindavan Express,Broad Gauge,Bangalore,Chennai,17-02-21,10:15,17-02-21,14:30,Jolarpettai,Track Problem,80,13:00
+901-9283763,Nellore Express,Broad Gauge,Bangalore,Nellore,05-12-21,16:30,05-12-21,13:10,Hydrabad,Track Changing,70,11:50
+892-8673652,Tiruathi Express,Broad Gauge,Bangalore,Tirupathi,05-12-21,13:18,05-12-21,16:20,Renigunda,Elephant Crossing,30,15:50
+178-2983721,Guntur Express,Broad Gauge,Bangalore,Guntur,16-07-21,9:10,16-07-21,19:35,Tirupathi,Track Problem,35,19:30
+928-8738272,Prashanth Express,Broad Gauge,Bangalore,Guntur,05-12-21,16:30,13-05-21,13:10,Nellore,Track Changing,70,11:50
+982-0289371,Vizaq Express,Broad Gauge,Bangalore,Visakapatnam,21-09-20,1:10,21-09-21,23:10,Guntur,Elephant Crossing,20,22:50
+213-7142614,Rajahmundry Express,Broad Gauge,Bangalore,Rajahmundry,03-01-21,2:10,03-01-21,23:45,Nellore,Track Problem,35,23:10
+938-0298321,Salem Express,Meter Gauge,Bangalore,Salem,13-06-21,5:30,13-06-21,11:45,Dharmapuri,Train Accident,40,11:05
+092-9837371,Dubble Tucker,Broad Gauge,Bangalore,Chennai,05-12-21,6:10,05-12-21,13:30,Kuppam,Elephant Crossing,30,13:00

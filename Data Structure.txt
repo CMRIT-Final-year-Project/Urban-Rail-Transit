@@ -1,0 +1,39 @@
+Predicting the Impact of Disruptions to Urban Rail Transit Systems
+
+
+Service disruption,impact prediction,data scarcity
+
+
+
+Urban_Rail_Transit_Systems
+
+urban_rail_transit_systems
+
+
+Type --- Broad Gauge,Meter Gauge,Narrow Gauge
+
+rail_no
+rail_name
+rail_type 
+departure_place
+destination
+departure_date
+departure_time
+arrival_date
+arrival_time
+distruption_place_name
+distruption_reason
+distruption_time
+actual_arrival_time
+
+
+
+expected_delay
+impact
+
+
+Impact Of Disruptions
+
+Average Late
+Less Late
+More Late
